@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vintri.BeerInfo.API", "Vintri.BeerInfo.API.csproj", "{C8D37E2B-D4FE-4BA2-BEB8-39C338EC33E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vintri.BeerInfo.Tests", "..\Vintri.BeerInfo.Tests\Vintri.BeerInfo.Tests.csproj", "{F89BA35D-266C-4F6C-9A83-9061689302A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{73685604-745C-4632-B659-3C1B14C7243F}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D37E2B-D4FE-4BA2-BEB8-39C338EC33E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D37E2B-D4FE-4BA2-BEB8-39C338EC33E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D37E2B-D4FE-4BA2-BEB8-39C338EC33E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D37E2B-D4FE-4BA2-BEB8-39C338EC33E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89BA35D-266C-4F6C-9A83-9061689302A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89BA35D-266C-4F6C-9A83-9061689302A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89BA35D-266C-4F6C-9A83-9061689302A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89BA35D-266C-4F6C-9A83-9061689302A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F78442D-1338-4441-A3A2-49EA9C1B41B7}
+	EndGlobalSection
+EndGlobal
